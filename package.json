@@ -18,11 +18,15 @@
     "url": "https://github.com/KozhaVitalii/10_01_asynchrony/issues"
   },
   "dependencies": {
+    "bootstrap.native": "^5.0.6",
+    "lodash.throttle": "^4.1.1",
     "modern-normalize": "^1.1.0"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.6.0",
     "parcel": "^2.6.0",
+    "parcel-bundler": "^1.12.5",
+    "parcel-plugin-nuke-dist": "^1.0.1",
     "parcel-reporter-clean-dist": "^1.0.4",
     "posthtml-include": "^1.7.4"
   },
